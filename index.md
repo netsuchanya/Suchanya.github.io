@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: single
+title: "About"
 author_profile: true
-title: "Suchanya Mitprayoon"
+permalink: /
 ---
 Welcome to my academic page.
