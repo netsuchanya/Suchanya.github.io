@@ -1,8 +1,8 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # ===== Required for USER site (netsuchanya.github.io) =====
 url: "https://netsuchanya.github.io"          # ใช้ username ปัจจุบัน
-baseurl: ""                                    # ว่าง สำหรับ User Pages
-repository: "netsuchanya/netsuchanya.github.io"
+baseurl: "https://github.com/netsuchanya"     # ว่าง สำหรับ User Pages
+repository: "netsuchanya.github.io"
 # =========================================================
 
 # Basic Site Settings
@@ -50,15 +50,15 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : # URL
-  facebook         : # Suchanya Mitprayoon
+  facebook         : "Suchanya Mitprayoon"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # net_suchanya
+  instagram        : "net_suchanya"
   lastfm           : # Username
-  linkedin         : # SUCHANYA MITPRAYOON
+  linkedin         : "SUCHANYA MITPRAYOON"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
