@@ -305,6 +305,7 @@ plugins:
   - jekyll-redirect-from
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-
 
 # Archives
 #  Type
