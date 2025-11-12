@@ -4,8 +4,8 @@ title: "About"
 permalink: /about/
 author_profile: true
 ---
-About Me
-======
+## About Me
+
 I am currently an undergraduate Geoscience student at Mahidol University, Kanchanaburi Campus, Thailand.
 My academic interest focuses on rock physics, quantitative seismic interpretation, and CO₂ storage feasibility studies in intermontane basins of Thailand.
 During my studies, I have worked on projects involving core description, lithofacies analysis, and fluid substitution modeling, emphasizing the application of geophysical methods to evaluate subsurface properties and carbon storage potential in the Suphanburi Basin. My technical experience includes data acquisition, Python-based rock physics analysis, and integration of seismic and well-log data for subsurface interpretation.
