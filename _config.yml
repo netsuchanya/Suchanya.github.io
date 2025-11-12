@@ -4,8 +4,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 url: "https://netsuchanya.github.io"
 baseurl: ""
 repository: "netsuchanya/netsuchanya.github.io"
-# =========================================================
-
 # Basic Site Settings
 locale: "en-US"
 title: "Geoscience Student"
