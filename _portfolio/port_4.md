@@ -1,5 +1,5 @@
 ---
 title: "Staff, Camp 1, IPST, Earth Science and History"
-excerpt: 'Staff, Camp 1, IPST, Earth Science and History: Mahidol University (October 2023)"
+excerpt: "Staff, Camp 1, IPST, Earth Science and History: Mahidol University (October 2023)"
 collection: portfolio
 ---
