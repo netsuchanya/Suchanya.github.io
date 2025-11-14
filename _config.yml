@@ -32,7 +32,7 @@ plugins:
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/suchanya.png"
+  avatar           : "/images/suchanya.png"
   name             : "Suchanya Mitprayoon"
   pronouns         : "she/her"  
   bio              : "Geophysicist"
