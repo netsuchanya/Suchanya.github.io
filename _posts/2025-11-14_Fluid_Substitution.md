@@ -1,5 +1,3 @@
-Fluid Substitution
-======
 ---
 title: "Fluid Substitution"
 date: 2025-11-14
